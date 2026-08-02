@@ -35,8 +35,8 @@ The system is built to enterprise standards, prioritizing performance, security,
 ---
 
 ## Let's Connect
-Developed and engineered by **Danish Waheed** / **Alpha Tech Solutions**.
+Developed and engineered by **Alpha Tech Solutions**.
 
 For business inquiries, system architecture discussions, or enterprise software solutions, let's connect:
 * **Email:** [alphatechofficialpk@gmail.com](mailto:alphatechofficialpk@gmail.com)
-* **LinkedIn:** [Danish Waheed](https://www.linkedin.com/in/danish-waheed-3995aa296/)
+* **LinkedIn:** [Alpha Tech Solutions](https://www.linkedin.com/company/alpha-tech-ai/)
