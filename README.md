@@ -8,7 +8,7 @@ This repository serves as a technical portfolio showcase demonstrating the backe
 ## Live API Demo & Testing
 The API is live and fully documented. You can explore and test the endpoints directly through our Swagger UI interface.
 
-**Live API Documentation (Swagger):** [Insert_Your_Azure_API_URL_Here]
+**Live API Documentation (Swagger):** (https://skillsquare-live-api-b9czenhchfhxdwbp.centralindia-01.azurewebsites.net/index.html)
 
 ### Test Credentials
 To evaluate the role-based access control (RBAC) and secure endpoints, generate a JWT token via the authentication routes using the following demo credentials:
