@@ -123,6 +123,7 @@ builder.Services.AddCors(options =>
                 "https://skill-square.vercel.app",
                 "https://zealous-island-0cd09c700.7.azurestaticapps.net"
 
+
             )
             .AllowAnyHeader()
             .AllowAnyMethod()
